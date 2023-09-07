@@ -1,0 +1,5 @@
+train: /LAM/data/images/train
+val: /LAM/data/images/val
+
+nc: 1
+names: ["Itallian"]
